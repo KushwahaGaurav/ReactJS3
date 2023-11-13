@@ -1,0 +1,30 @@
+{
+  "name": "reactjs3",
+  "version": "1.0.0",
+  "description": "Given by gaurav",
+  "main": "App.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KushwahaGaurav/ReactJS3.git"
+  },
+  "author": "Gaurav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KushwahaGaurav/ReactJS3/issues"
+  },
+  "homepage": "https://github.com/KushwahaGaurav/ReactJS3#readme",
+  "devDependencies": {
+    "parcel": "^2.10.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.18.0"
+  }
+}
